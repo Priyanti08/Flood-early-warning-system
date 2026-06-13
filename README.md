@@ -2,7 +2,7 @@
 
 A low-cost IoT-based flood early warning prototype for the Teesta and Rangit river basins in Sikkim / West Bengal, India. The system integrates seven environmental sensors on an Arduino Uno, streams data to a Raspberry Pi 4, classifies flood risk in real time with a Random Forest model, and serves a live web dashboard with water-level forecasts aligned to Central Water Commission (CWC) threshold stages.
 
-Built for under ₹4,000 in sensing hardware, the project targets community-level monitoring of upstream Himalayan reaches not covered by national gauge networks. It was motivated by the October 2023 South Lhonak GLOF, which destroyed the Teesta-III dam and caused over 55 deaths with only ~18 minutes of downstream warning.
+Built for under ₹9000 in sensing hardware, the project targets community-level monitoring of upstream Himalayan reaches not covered by national gauge networks. It was motivated by the October 2023 South Lhonak GLOF, which destroyed the Teesta-III dam and caused over 55 deaths with only ~18 minutes of downstream warning.
 
 ## Features
 
